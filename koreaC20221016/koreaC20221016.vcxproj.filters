@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Review.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Function1.c">
+    <ClCompile Include="koreaC20221016.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

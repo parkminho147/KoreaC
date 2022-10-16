@@ -21,9 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{71babb7f-43a4-49d0-8adf-0754d21c79f4}</ProjectGuid>
-    <RootNamespace>koresC1015</RootNamespace>
+    <ProjectGuid>{717ec08b-9447-4642-8572-ae109f4ffef3}</ProjectGuid>
+    <RootNamespace>koreaC20221016</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Review.c</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,8 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Function1.c" />
-    <ClCompile Include="Review.c" />
+    <ClCompile Include="koreaC20221016.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
